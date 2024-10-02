@@ -1,9 +1,9 @@
 # MLGEO2024_mkato3
 ## Install this repository:
 `git clone "https://github.com/UW-ESS-DS/MLGEO2024_mkato3"`
-### Create environment using the environment.yml file:
+Create environment using the environment.yml file:
 `conda env create --file MLGeo-dataset/environment.yml`
-### Activate environment:
+Activate environment:
 `conda activate mlgeo_dataset`
 
 ## Run notebook
