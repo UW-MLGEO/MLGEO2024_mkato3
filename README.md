@@ -19,4 +19,4 @@ After cloning the repository and activating the correct environment, run the not
 - Space!
 
 ## Licensing
-Using MIT licensing, to maintain synchronisity with the MLGEO organization and cover my licensing needs.
+MIT Licensing allows commercial use, distrubution, modification, and private use while maintaining copyright and license notices.
