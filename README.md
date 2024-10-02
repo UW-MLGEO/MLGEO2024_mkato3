@@ -4,7 +4,7 @@
 
 Create environment using the environment.yml file:
 
-`conda env create --file MLGeo-dataset/environment.yml`
+`conda env create --file environment.yml`
 
 Activate environment:
 
